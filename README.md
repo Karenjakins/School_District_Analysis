@@ -20,7 +20,7 @@ The data was also altered to remove academic dishonesty and ensure the results r
 - The overall results of the school analysis were not severely affected as can be seen on the screenshots below.
 
 	![alt text](https://github.com/Karenjakins/School_District_Analysis/blob/main/Resources/Before%20School%20Summary.png "Before School Summary")
-	![alt text](https://github.com/Karenjakins/School_District_Analysis/blob/main/Resources/After%20School%20Summary.png "After School Summary")
+	![alt text](https://github.com/Karenjakins/School_District_Analysis/blob/main/Resources/AfterSchool%20Summary.png "AfterSchool Summary")
 
 ### Results after Thomas High School data was nullfied 
 
