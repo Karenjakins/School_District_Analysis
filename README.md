@@ -1,4 +1,4 @@
-# School_District_Analysis
+# School District Analysis
 
 ## **Overview of Project**
 
@@ -12,15 +12,15 @@ The data was also altered to remove academic dishonesty and ensure the results r
 
 - The overall results of the district analysis were not severely affected as can be seen on the screenshots below, the average math score before the grades were taken off the calculations was **79** and after **78.9**. The reading scores remained the same for both data sets at a **81.9**.
 
-	![alt text]( "Before District Summary")
-	![alt text]( "After District Summary")
+	![alt text](https://github.com/Karenjakins/School_District_Analysis/blob/main/Resources/Before%20District%20Summary.png "Before District Summary")
+	![alt text](https://github.com/Karenjakins/School_District_Analysis/blob/main/Resources/After%20District%20Summary.png "After District Summary")
 
 ### School Summary
 
 - The overall results of the school analysis were not severely affected as can be seen on the screenshots below, the average math score before the grades were taken off the calculations was **79** and after **78.9**. The reading scores remained the same for both data sets at a **81.9**.
 
-	![alt text]( "Before School Summary")
-	![alt text]( "After School Summary")
+	![alt text](https://github.com/Karenjakins/School_District_Analysis/blob/main/Resources/Before%20School%20Summary.png "Before School Summary")
+	![alt text](https://github.com/Karenjakins/School_District_Analysis/blob/main/Resources/After%20School%20Summary.png "After School Summary")
 
 -By removing the data from Tomas High School 
 
