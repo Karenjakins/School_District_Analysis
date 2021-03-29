@@ -17,12 +17,18 @@ The data was also altered to remove academic dishonesty and ensure the results r
 
 ### School Summary
 
-- The overall results of the school analysis were not severely affected as can be seen on the screenshots below, the average math score before the grades were taken off the calculations was **79** and after **78.9**. The reading scores remained the same for both data sets at a **81.9**.
+- The overall results of the school analysis were not severely affected as can be seen on the screenshots below.
 
 	![alt text](https://github.com/Karenjakins/School_District_Analysis/blob/main/Resources/Before%20School%20Summary.png "Before School Summary")
 	![alt text](https://github.com/Karenjakins/School_District_Analysis/blob/main/Resources/After%20School%20Summary.png "After School Summary")
 
--By removing the data from Tomas High School 
+### Results after Thomas High School data was nullfied 
+
+- After removing the data from Thomas High School its is eveident that it does not affect the overall scores for the district as the change in the data is not significant. The only area for concern was the **reading and math scores** for 9th grades as can be seen below with the value **NaN**:
+
+	![alt text](https://github.com/Karenjakins/School_District_Analysis/blob/main/Resources/Before%20School%20Summary.png "NaN score grade 9")
+
+
 
 
 
